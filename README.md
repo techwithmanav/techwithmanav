@@ -1,209 +1,299 @@
 <div align="center">
 
-# 👋 Hey, I'm Manav Chaudhary
+<!-- ========================= HERO ========================= -->
 
-### `CSE Student` • `Developer` • `Builder` • `Problem Solver`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MANAV%20CHAUDHARY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=I+build+things+to+understand+how+they+work.;From+ideas+to+code+to+working+projects.;C%2B%2B+%7C+Python+%7C+Web+Development;Learning+DSA+one+problem+at+a+time.;Always+building.+Always+learning.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Ideas+Into+Working+Software;C%2B%2B+%7C+Python+%7C+Web+Development;Learning+DSA+%26+Full-Stack+Development;Exploring+Generative+AI+%26+Cloud;Code+%E2%86%92+Debug+%E2%86%92+Build+%E2%86%92+Improve+%F0%9F%9A%80" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/techwithmanav">
-<img src="https://img.shields.io/badge/GitHub-techwithmanav-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-techwithmanav-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://github.com/techwithmanav?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/techwithmanav?tab=followers">
+<img src="https://img.shields.io/github/followers/techwithmanav?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+# 👋 Hey, I'm Manav
 
-I'm **Manav**, a Computer Science Engineering student who likes to learn by actually building things.
+I'm a **Computer Science Engineering student** interested in programming, software development, web technologies, and building practical applications.
 
-My journey in development has been less about trying to know every technology and more about **understanding fundamentals, experimenting with ideas, making mistakes, debugging them, and gradually building better things**.
+I learn best by **building things** — taking an idea, breaking it into smaller problems, writing code, debugging what goes wrong, and improving the result.
 
-I've worked across programming, web development, project building, and problem solving, while continuing to strengthen the fundamentals that make a good developer.
+My development journey is currently centered around strengthening my fundamentals in **C++, Python, Data Structures & Algorithms**, while expanding into **full-stack development, databases, APIs, cloud deployment, and Generative AI**.
 
 ```text
-                    ┌──────────────────────────┐
-                    │       MANAV CHAUAUDHARY  │
-                    │                          │
-                    │  THINK  →  CODE         │
-                    │     ↓        ↓          │
-                    │  BUILD  ←  DEBUG        │
-                    │     ↓        ↓          │
-                    │       IMPROVE            │
-                    └──────────────────────────┘
-```
+                💡 IDEA
+                  │
+                  ▼
+              🧩 DESIGN
+                  │
+                  ▼
+               💻 CODE
+                  │
+                  ▼
+              🐛 DEBUG
+                  │
+                  ▼
+               🧪 TEST
+                  │
+                  ▼
+               🚀 BUILD
+                  │
+                  ▼
+              📈 IMPROVE
+````
 
-> I don't want to just learn how to use technology.
-> I want to understand it well enough to build with it.
+> **Learn → Build → Break → Debug → Improve**
 
 ---
 
-## ⚡ What I'm Into
+# 🎓 Currently Learning
 
-```text
-💻 Programming
-🧠 Data Structures & Algorithms
-🐍 Python
-⚙️ C++
-🌐 Web Development
-🔧 Software Projects
-🤖 AI & emerging technology
-🐙 Git & GitHub
-📚 Continuous learning
-```
+## Python Full Stack with Gen AI & Cloud Integration
 
-I'm particularly interested in the intersection between **software engineering, practical problem solving, and new technology**.
+I'm currently enrolled in a **6-month Python Full Stack with Gen AI & Cloud Integration program**.
 
----
+The program covers multiple areas of modern software development, including **Python, SQL/MySQL, NoSQL/MongoDB, HTML, CSS, JavaScript, React, Django, REST APIs, cloud deployment, and Generative AI**.
 
-## 🛠️ My Current Stack
+### 🧠 Current Learning Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,html,css,js,react,django" />
+
+</div>
+
+```text
+🐍 Python
+🗄️ SQL / MySQL
+🍃 NoSQL / MongoDB
+🎨 HTML / CSS
+⚡ JavaScript
+⚛️ React
+🌐 Django
+🔌 REST APIs
+☁️ Cloud Deployment
+🤖 Generative AI
+```
+
+The program also includes **three hands-on projects** across Python, React, and Django, giving me an opportunity to apply the concepts through practical development.
+
+---
+
+# 🤖 Exploring Generative AI
+
+One of the areas I'm currently exploring is **Generative AI and Large Language Models**.
+
+My learning path includes:
+
+```text
+                    🤖 GENERATIVE AI
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+              ▼            ▼            ▼
+          GPT Models    APIs / SDKs   LLM Concepts
+              │            │            │
+              └────────────┼────────────┘
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+        Text Generation  Sentiment    Chatbots
+                         Analysis
+                           │
+                           ▼
+                    AI Applications
+```
+
+I'm currently learning concepts around:
+
+* Large Language Models
+* GPT models
+* AI APIs
+* Text generation
+* Sentiment analysis
+* AI image generation
+* Chatbot development
+* Integrating AI into applications
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js" />
 
-### Web
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+### 🌐 Frontend
 
-### Tools
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+</div>
+
+### ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</div>
+
+### 🔧 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Things I've Built
+# 🚀 Projects
 
-### 🍔 Food Ordering System
+## 🍔 Food Ordering System
 
 A Python-based food ordering application built around a complete ordering workflow.
 
-The project explores concepts such as:
-
-`Authentication` → `Menu` → `Stock` → `Cart` → `Discounts` → `Coupons` → `Payment` → `Orders` → `Tracking` → `Ratings`
-
-**Tech:** `Python`
-
-[→ Explore the repository](https://github.com/techwithmanav/Food-Ordering-System)
-
----
-
-### 🛣️ Backroad
-
-A web-development project focused on creating a structured, responsive frontend experience.
-
-**Tech:** `HTML` • `CSS` • `Web Development`
-
-[→ Explore the repository](https://github.com/techwithmanav/backroad-app)
-
----
-
-### 🌐 Personal Web Projects
-
-I've also experimented with personal web development and GitHub-hosted projects while learning how frontend code translates into real, accessible websites.
-
-[→ Visit my repositories](https://github.com/techwithmanav?tab=repositories)
-
----
-
-## 🧠 How I Learn
-
-I learn best when there's something **real to build**.
-
-Instead of stopping at:
+### Features
 
 ```text
-"How does this work?"
+🔐 User Login
+🍽️ Menu Management
+📦 Stock Management
+🛒 Shopping Cart
+🏷️ Discounts
+🎟️ Coupons
+💳 Payment Flow
+📦 Order Management
+📍 Order Tracking
+⭐ Ratings
 ```
 
-I try to move toward:
+**Built with:** `Python`
+
+<a href="https://github.com/techwithmanav/Food-Ordering-System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🛣️ Backroad
+
+A web-development project focused on frontend structure, page layout, styling, and creating a responsive web experience.
+
+**Built with:** `HTML` `CSS` `Web Development`
+
+<a href="https://github.com/techwithmanav/backroad-app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🌐 Personal Web Development
+
+I've also worked with GitHub-hosted web projects while learning how frontend development translates into real websites.
+
+<a href="https://github.com/techwithmanav/techwithmanav.github.io">
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# 🧠 What I'm Working On
+
+<div align="center">
+
+| Area               | Focus                           |
+| ------------------ | ------------------------------- |
+| 💻 Programming     | C++ • Python                    |
+| 🧠 Problem Solving | DSA • Algorithms                |
+| 🌐 Frontend        | HTML • CSS • JavaScript • React |
+| ⚙️ Backend         | Python • Django                 |
+| 🗄️ Databases      | MySQL • MongoDB                 |
+| 🔌 APIs            | REST APIs                       |
+| ☁️ Cloud           | Application Deployment          |
+| 🤖 AI              | Generative AI • LLMs • AI APIs  |
+| 🐙 Development     | Git • GitHub                    |
+
+</div>
+
+---
+
+# 📚 My Learning Philosophy
+
+I don't want to simply collect technologies.
+
+I want to understand **how and why things work**, and then use that understanding to build something useful.
 
 ```text
-"Can I build it?"
-        ↓
-"Why did it break?"
-        ↓
-"How can I make it better?"
+Tutorial
+   ↓
+Understanding
+   ↓
+Experiment
+   ↓
+Project
+   ↓
+Problem
+   ↓
+Debugging
+   ↓
+Better Understanding
+   ↓
+Better Project
 ```
 
-That's shaped the way I've approached programming, projects, GitHub, and learning new technologies.
+### My rule:
+
+> **Don't just watch someone build it. Try building it yourself.**
 
 ---
 
-## 📚 Currently Leveling Up
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Core Development
-
-* C++
-* Python
-* OOP
-* Data Structures
-* Algorithms
-* Problem Solving
-
-</td>
-
-<td width="50%">
-
-### 🌐 Software Building
-
-* Frontend Development
-* Backend Concepts
-* Databases
-* APIs
-* Git/GitHub
-* Project Architecture
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Where I'm Heading
-
-I'm working toward becoming a developer who can take an idea from:
+# 🎯 Current Goals
 
 ```text
-                    💡 IDEA
-                      │
-                      ▼
-                 🧩 DESIGN
-                      │
-                      ▼
-                   💻 CODE
-                      │
-                      ▼
-                  🐛 DEBUG
-                      │
-                      ▼
-                  🧪 TEST
-                      │
-                      ▼
-                  🚀 DEPLOY
+[ ] Strengthen C++ fundamentals
+[ ] Improve Data Structures & Algorithms
+[ ] Become stronger with Python
+[ ] Build full-stack applications
+[ ] Improve React development
+[ ] Develop backend applications with Django
+[ ] Work with SQL & NoSQL databases
+[ ] Build and consume REST APIs
+[ ] Learn cloud deployment
+[ ] Build practical Generative AI applications
+[ ] Contribute to open source
+[ ] Build a stronger portfolio
 ```
-
-The long-term goal isn't simply collecting technologies.
-
-It's becoming capable of **building useful, reliable software independently**.
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -211,7 +301,11 @@ It's becoming capable of **building useful, reliable software independently**.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithmanav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=techwithmanav&theme=tokyonight&hide_border=true" width="70%"/>
 
@@ -219,7 +313,7 @@ It's becoming capable of **building useful, reliable software independently**.
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -229,7 +323,27 @@ It's becoming capable of **building useful, reliable software independently**.
 
 ---
 
-## 🧩 Developer Mindset
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=techwithmanav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/techwithmanav/techwithmanav/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+---
+
+# 💭 Developer Mindset
 
 <div align="center">
 
@@ -237,9 +351,11 @@ It's becoming capable of **building useful, reliable software independently**.
 
 ### `Consistency > Motivation`
 
-### `Building > Watching Tutorials`
+### `Building > Watching`
 
 ### `Understanding > Memorizing`
+
+### `Progress > Perfection`
 
 <br>
 
@@ -249,42 +365,85 @@ It's becoming capable of **building useful, reliable software independently**.
 
 ---
 
-## 🌱 Beyond the Code
+# 🔭 Where I'm Heading
 
-Technology changes quickly.
+My goal is to grow from writing individual programs to being able to take an idea through the entire development process:
 
-So rather than trying to predict exactly what I'll be working with years from now, I'm focusing on something more fundamental:
+```text
+                    💡 IDEA
+                      │
+                      ▼
+                  📝 PLAN
+                      │
+                      ▼
+                  🎨 DESIGN
+                      │
+                      ▼
+               💻 DEVELOPMENT
+                      │
+            ┌─────────┴─────────┐
+            ▼                   ▼
+        FRONTEND              BACKEND
+            │                   │
+            └─────────┬─────────┘
+                      ▼
+                   🗄️ DATA
+                      │
+                      ▼
+                  🔌 APIs
+                      │
+                      ▼
+                 🤖 AI / LLM
+                      │
+                      ▼
+                 ☁️ CLOUD
+                      │
+                      ▼
+                  🚀 DEPLOY
+```
 
-**learning how to learn.**
-
-Whether it's a new language, framework, tool, architecture, or completely new technology, I want to be able to pick it up, understand it, and turn that knowledge into something useful.
+I'm especially interested in eventually combining **full-stack development + Generative AI + cloud technologies** to create useful applications.
 
 ---
 
-## 🤝 Let's Build Something
+# 🤝 Let's Connect & Build
 
-I'm open to:
+I'm interested in:
 
-* 💡 Interesting project ideas
-* 🤝 Collaborations
-* 🌱 Open-source contributions
-* 🧠 Learning with other developers
-* 🚀 Building something from scratch
-
-If you're building something interesting, **let's connect.**
+```text
+💡 Interesting project ideas
+🤝 Collaborations
+🌱 Open-source projects
+🧠 Learning with other developers
+🚀 Building useful applications
+💻 Exploring new technologies
+```
 
 <div align="center">
 
 <a href="https://github.com/techwithmanav">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-### ⭐ Thanks for visiting!
-
-`Keep learning. Keep building. Keep improving.`
+<a href="https://github.com/techwithmanav?tab=repositories">
+<img src="https://img.shields.io/badge/My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=techwithmanav&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep improving. 🚀**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient" width="100%"/>
+```
