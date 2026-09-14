@@ -290,59 +290,6 @@ Better Project
 [ ] Contribute to open source
 [ ] Build a stronger portfolio
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=techwithmanav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithmanav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=techwithmanav&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techwithmanav&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=techwithmanav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/techwithmanav/techwithmanav/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
 # 💭 Developer Mindset
 
 <div align="center">
@@ -447,3 +394,4 @@ I'm interested in:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient" width="100%"/>
 ```
+
